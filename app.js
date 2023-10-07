@@ -160,3 +160,5 @@ function displayName(array){
     return names;
 }
 console.log(displayName(pokemonData));
+
+//end of problemsolving
